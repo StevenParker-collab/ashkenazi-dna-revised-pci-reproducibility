@@ -1,0 +1,10 @@
+Mbuti.DG
+Han.DG
+Chukchi.DG
+Karitiana.DG
+Papuan.DG
+Switzerland_Bichon_Epipaleolithic.SG
+Basque.DG
+Ju_hoan_North.DG
+Iranian.DG
+Yoruba.DG

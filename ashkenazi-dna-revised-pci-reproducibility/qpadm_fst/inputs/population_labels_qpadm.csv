@@ -1,0 +1,17 @@
+role,population_label,analysis
+target,Jew_Ashkenazi.HO,qpAdm
+source,Italian_South.HO,qpAdm south Italian model
+source,Italian_North.HO,qpAdm north Italian model
+source,Italian_Central.HO,qpAdm central Italian model
+source,Lebanese.HO,qpAdm all models
+source,Russian.DG,qpAdm all models
+right,Mbuti.DG,qpAdm all models
+right,Han.DG,qpAdm all models
+right,Chukchi.DG,qpAdm all models
+right,Karitiana.DG,qpAdm all models
+right,Papuan.DG,qpAdm all models
+right,Switzerland_Bichon_Epipaleolithic.SG,qpAdm all models
+right,Basque.DG,qpAdm all models
+right,Ju_hoan_North.DG,qpAdm all models
+right,Iranian.DG,qpAdm all models
+right,Yoruba.DG,qpAdm all models
