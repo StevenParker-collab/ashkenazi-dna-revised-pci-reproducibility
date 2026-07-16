@@ -1,4 +1,0 @@
-model,italian_component_percent,lebanese_percent,russian_percent,p_value,feasible,standard_errors
-Italian_South.HO + Lebanese.HO + Russian.DG,69.97,22.06,7.97,0.1445,Yes,Italian_South.HO=4.93; Lebanese.HO=3.45; Russian.DG=2.74
-Italian_North.HO + Lebanese.HO + Russian.DG,54.53,42.57,2.9,0.0256,No,Italian_North.HO=3.88; Lebanese.HO=2.38; Russian.DG=3.10
-Italian_Central.HO + Lebanese.HO + Russian.DG,61.33,33.83,4.84,0.0514,Yes,Italian_Central.HO=4.72; Lebanese.HO=3.01; Russian.DG=3.17

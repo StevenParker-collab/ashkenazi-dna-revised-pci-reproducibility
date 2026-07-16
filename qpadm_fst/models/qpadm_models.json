@@ -1,0 +1,66 @@
+{
+  "platform": "IllustrativeDNA Admix Lab",
+  "platform_url": "https://illustrativedna.com/admix-lab/",
+  "dataset": "Human Origins v62.0",
+  "target": "Jew_Ashkenazi.HO",
+  "allsnps": true,
+  "right_set": [
+    "Mbuti.DG",
+    "Han.DG",
+    "Chukchi.DG",
+    "Karitiana.DG",
+    "Papuan.DG",
+    "Switzerland_Bichon_Epipaleolithic.SG",
+    "Basque.DG",
+    "Ju_hoan_North.DG",
+    "Iranian.DG",
+    "Yoruba.DG"
+  ],
+  "models": [
+    {
+      "name": "Southern_Italian_Model",
+      "sources": [
+        "Italian_South.HO",
+        "Lebanese.HO",
+        "Russian.DG"
+      ],
+      "p_value": 0.1445,
+      "feasible": true,
+      "proportions_percent": {
+        "Italian_South.HO": 69.97,
+        "Lebanese.HO": 22.06,
+        "Russian.DG": 7.97
+      }
+    },
+    {
+      "name": "Northern_Italian_Model",
+      "sources": [
+        "Italian_North.HO",
+        "Lebanese.HO",
+        "Russian.DG"
+      ],
+      "p_value": 0.0256,
+      "feasible": false,
+      "proportions_percent": {
+        "Italian_North.HO": 54.53,
+        "Lebanese.HO": 42.57,
+        "Russian.DG": 2.9
+      }
+    },
+    {
+      "name": "Central_Italian_Model",
+      "sources": [
+        "Italian_Central.HO",
+        "Lebanese.HO",
+        "Russian.DG"
+      ],
+      "p_value": 0.0514,
+      "feasible": true,
+      "proportions_percent": {
+        "Italian_Central.HO": 61.33,
+        "Lebanese.HO": 33.83,
+        "Russian.DG": 4.84
+      }
+    }
+  ]
+}

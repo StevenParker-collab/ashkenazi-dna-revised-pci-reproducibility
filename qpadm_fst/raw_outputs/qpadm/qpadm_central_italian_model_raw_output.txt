@@ -1,0 +1,62 @@
+Starting qpadm analysis
+Target population is being processed: Jew_Ashkenazi.HO
+Dataset: Human Origins v62.0
+Platform: IllustrativeDNA Admix Lab
+Setting: allsnps = TRUE
+Interpretation of setting: uses different SNPs for each f4-statistic.
+
+Model:
+Jew_Ashkenazi.HO = Italian_Central.HO + Lebanese.HO + Russian.DG
+Right set:
+Mbuti.DG
+Han.DG
+Chukchi.DG
+Karitiana.DG
+Papuan.DG
+Switzerland_Bichon_Epipaleolithic.SG
+Basque.DG
+Ju_hoan_North.DG
+Iranian.DG
+Yoruba.DG
+
+Number of SNPs used for each f4-statistic reported in author log:
+Jew_Ashkenazi.HO Italian_Central.HO Mbuti.DG Basque.DG 535555
+Jew_Ashkenazi.HO Italian_Central.HO Mbuti.DG Chukchi.DG 528093
+Jew_Ashkenazi.HO Italian_Central.HO Mbuti.DG Han.DG 535556
+Jew_Ashkenazi.HO Italian_Central.HO Mbuti.DG Iranian.DG 528573
+Jew_Ashkenazi.HO Italian_Central.HO Mbuti.DG Ju_hoan_North.DG 535550
+Jew_Ashkenazi.HO Italian_Central.HO Mbuti.DG Karitiana.DG 535551
+Jew_Ashkenazi.HO Italian_Central.HO Mbuti.DG Papuan.DG 535555
+Jew_Ashkenazi.HO Italian_Central.HO Mbuti.DG Switzerland_Bichon_Epipaleolithic.SG 534807
+Jew_Ashkenazi.HO Italian_Central.HO Mbuti.DG Yoruba.DG 535556
+Jew_Ashkenazi.HO Lebanese.HO Mbuti.DG Basque.DG 579623
+Jew_Ashkenazi.HO Lebanese.HO Mbuti.DG Chukchi.DG 571479
+Jew_Ashkenazi.HO Lebanese.HO Mbuti.DG Han.DG 579624
+Jew_Ashkenazi.HO Lebanese.HO Mbuti.DG Iranian.DG 572017
+Jew_Ashkenazi.HO Lebanese.HO Mbuti.DG Ju_hoan_North.DG 579618
+Jew_Ashkenazi.HO Lebanese.HO Mbuti.DG Karitiana.DG 579620
+Jew_Ashkenazi.HO Lebanese.HO Mbuti.DG Papuan.DG 579625
+Jew_Ashkenazi.HO Lebanese.HO Mbuti.DG Switzerland_Bichon_Epipaleolithic.SG 578790
+Jew_Ashkenazi.HO Lebanese.HO Mbuti.DG Yoruba.DG 579625
+Jew_Ashkenazi.HO Russian.DG Mbuti.DG Basque.DG 579622
+Jew_Ashkenazi.HO Russian.DG Mbuti.DG Chukchi.DG 571478
+Jew_Ashkenazi.HO Russian.DG Mbuti.DG Han.DG 579623
+Jew_Ashkenazi.HO Russian.DG Mbuti.DG Iranian.DG 572016
+Jew_Ashkenazi.HO Russian.DG Mbuti.DG Ju_hoan_North.DG 579617
+Jew_Ashkenazi.HO Russian.DG Mbuti.DG Karitiana.DG 579619
+Jew_Ashkenazi.HO Russian.DG Mbuti.DG Papuan.DG 579623
+Jew_Ashkenazi.HO Russian.DG Mbuti.DG Switzerland_Bichon_Epipaleolithic.SG 578788
+Jew_Ashkenazi.HO Russian.DG Mbuti.DG Yoruba.DG 579624
+
+Computing admixture weights...
+Computing standard errors...
+Computing number of admixture waves...
+Jew_Ashkenazi.HO finished
+
+Result:
+Target: Jew_Ashkenazi.HO
+p value: 0.0514
+Feasibility: TRUE
+Italian_Central.HO: 61.33 percent; standard error 4.72
+Lebanese.HO: 33.83 percent; standard error 3.01
+Russian.DG: 4.84 percent; standard error 3.17
