@@ -22,4 +22,6 @@ Global25 mixture outputs are descriptive constrained similarity weights conditio
 
 ## Permanent archiving
 
-Git URLs are not permanent identifiers. After creating the GitHub repository, make a versioned release and archive that release in a service that issues a DOI or another permanent identifier. Add the identifier to `CITATION.cff` and to the manuscript data-availability statement before final recommendation.
+The current materials are maintained in the GitHub repository at https://github.com/StevenParker-collab/ashkenazi-dna-revised-pci-reproducibility and in its Version 4 release at https://github.com/StevenParker-collab/ashkenazi-dna-revised-pci-reproducibility/releases/tag/v4.0.0.
+
+The manuscript Version 4 record is https://doi.org/10.5281/zenodo.21397986. The frozen reproducibility archive is https://doi.org/10.5281/zenodo.21383280.

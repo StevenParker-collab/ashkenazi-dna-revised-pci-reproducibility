@@ -6,6 +6,12 @@ This repository accompanies the revised manuscript:
 
 The submitted manuscript is preserved as a PDF in `manuscript/`. The repository contains the author-generated qpAdm and FST audit trail retained from the earlier repository and the linked Global25 Experiments 1-15 used in the revised manuscript, including the Experiment 14 full-dimensional vector diagnostic.
 
+## Version 4 records
+
+- Manuscript Version 4: https://doi.org/10.5281/zenodo.21397986
+- GitHub Version 4 release: https://github.com/StevenParker-collab/ashkenazi-dna-revised-pci-reproducibility/releases/tag/v4.0.0
+- Frozen reproducibility archive: https://doi.org/10.5281/zenodo.21383280
+
 ## Repository contents
 
 - `manuscript/`: the current revised manuscript PDF.
@@ -49,4 +55,4 @@ The source handoff did not contain separate target-coordinate files for every an
 
 ## Suggested citation
 
-Citation metadata are provided in `CITATION.cff`. After publishing the repository on GitHub, archive a versioned release in a DOI-granting repository and update the citation metadata with the permanent identifier.
+Citation metadata are provided in `CITATION.cff`. Cite the Version 4 manuscript DOI for the preprint and the frozen reproducibility archive DOI for the materials.

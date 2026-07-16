@@ -7,6 +7,9 @@ authors:
     given-names: Steven
 version: 4.0.0
 date-released: 2026-07-16
+doi: "10.5281/zenodo.21383280"
+repository-code: "https://github.com/StevenParker-collab/ashkenazi-dna-revised-pci-reproducibility"
+url: "https://doi.org/10.5281/zenodo.21383280"
 keywords:
   - population genetics
   - Ashkenazi Jews
@@ -21,4 +24,5 @@ preferred-citation:
     - family-names: Parker
       given-names: Steven
   year: 2026
-  status: unpublished manuscript
+  status: preprint
+  doi: "10.5281/zenodo.21397986"

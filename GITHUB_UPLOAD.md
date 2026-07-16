@@ -1,12 +1,13 @@
-# Manual GitHub upload
+# GitHub publication status
 
-Suggested repository name:
+The repository has been published at:
 
-`ashkenazi-dna-revised-pci-reproducibility`
+https://github.com/StevenParker-collab/ashkenazi-dna-revised-pci-reproducibility
 
-1. Create a new public GitHub repository with that name.
-2. Do not initialize it with an additional README, license, or `.gitignore`.
-3. Extract this ZIP locally.
-4. Upload the contents of the extracted `ashkenazi-dna-revised-pci-reproducibility` folder so that `README.md` appears at the repository root.
-5. Create a versioned release after checking the uploaded file tree.
-6. Archive the release in a DOI-granting repository and add the DOI to `CITATION.cff` and the manuscript data-availability statement.
+## Version 4 records
+
+- GitHub release: https://github.com/StevenParker-collab/ashkenazi-dna-revised-pci-reproducibility/releases/tag/v4.0.0
+- Manuscript Version 4: https://doi.org/10.5281/zenodo.21397986
+- Frozen reproducibility archive: https://doi.org/10.5281/zenodo.21383280
+
+The repository root contains the current README, citation metadata, integrity manifests, manuscript PDF, qpAdm and FST audit trail, and the Global25 Experiments 1-15 reproducibility materials.
